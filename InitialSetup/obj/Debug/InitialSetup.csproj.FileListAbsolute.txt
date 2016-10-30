@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\DBAdvanced\InitialSetup\InitialSetup\bin\Debug\InitialSetup.exe.config
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\DBAdvanced\InitialSetup\InitialSetup\obj\Debug\InitialSetup.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\DBAdvanced\InitialSetup\InitialSetup\obj\Debug\InitialSetup.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\DBAdvanced\InitialSetup\InitialSetup\bin\Debug\InitialSetup.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\DBAdvanced\InitialSetup\InitialSetup\bin\Debug\InitialSetup.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\DBAdvanced\InitialSetup\InitialSetup\obj\Debug\InitialSetup.csprojResolveAssemblyReference.cache

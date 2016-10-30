@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\DBAdvanced\InitialSetup\AddMinions\bin\Debug\AddMinions.exe.config
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\DBAdvanced\InitialSetup\AddMinions\bin\Debug\AddMinions.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\DBAdvanced\InitialSetup\AddMinions\bin\Debug\AddMinions.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\DBAdvanced\InitialSetup\AddMinions\obj\Debug\AddMinions.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\DBAdvanced\InitialSetup\AddMinions\obj\Debug\AddMinions.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\DBAdvanced\InitialSetup\AddMinions\obj\Debug\AddMinions.pdb

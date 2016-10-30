@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\DBAdvanced\InitialSetup\MinionNames\bin\Debug\MinionNames.exe.config
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\DBAdvanced\InitialSetup\MinionNames\bin\Debug\MinionNames.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\DBAdvanced\InitialSetup\MinionNames\bin\Debug\MinionNames.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\DBAdvanced\InitialSetup\MinionNames\obj\Debug\MinionNames.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\DBAdvanced\InitialSetup\MinionNames\obj\Debug\MinionNames.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\DBAdvanced\InitialSetup\MinionNames\obj\Debug\MinionNames.pdb
